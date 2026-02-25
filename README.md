@@ -18,7 +18,7 @@ A beautiful, responsive registration form with glassmorphism design, form valida
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://juitabaidya9.github.io/registrationfrom/)
+[View Live Demo](https://registrationfrom-pi.vercel.app/)
 
 ## 🛠️ Technologies Used
 
